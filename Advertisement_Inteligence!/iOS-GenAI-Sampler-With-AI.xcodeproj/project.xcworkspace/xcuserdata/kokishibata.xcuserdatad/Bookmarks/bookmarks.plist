@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>200</string>
+					<key>EndingLineNumber</key>
+					<string>20</string>
+					<key>StartingColumnNumber</key>
+					<string>200</string>
+					<key>StartingLineNumber</key>
+					<string>20</string>
+					<key>Timestamp</key>
+					<string>749801738.652409</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>iOS-GenAI-Sampler/Samples/OpenAI API/OpenAIClient.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string></string>
+				<key>leading</key>
+				<string>    }
+
+    let openAI = OpenAI(apiToken: "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"</string>
+				<key>trailing</key>
+				<string>)
+
+    // MARK: - Private Methods
+</string>
+			</dict>
+			<key>title</key>
+			<string>Single-quoted string literal found, use '"'</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
