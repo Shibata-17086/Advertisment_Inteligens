@@ -23,6 +23,8 @@ RealtimeARView
 RealtimeARManager
 このプログラムではARViewのカメラ映像からGPT-4oのマルチモーダルAIにAPIを用いて，擬似的な動画情報を送信し，優秀な広告コンサルタントであるGPT-4oが目の前の情報を元に有用な広告を提示します．今はテキストデータだけですが，より実用的な広告をつける予定です．
 
+動作しない時はopenAIAPIを入力し直して下さい
+
 
 This program selects more personalized ads compared to conventional methods by multimodal processing of dynamic information obtained from the camera of iOS devices with GPT-4o. In addition, the advertisement is displayed on the wall of the AR space to provide a more interactive advertising experience.
 
